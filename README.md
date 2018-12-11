@@ -73,3 +73,10 @@ For a sample of input given [above](#Input), the output fragment should look lik
   ]
 }
 ```
+
+## The process
+
+1. Make a [public fork](https://help.github.com/articles/fork-a-repo/) of this repo into your Github account
+2. Add your commits to the `master` branch of your fork
+3. Make [a pull request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/) from your `master` to the [source repo's](https://github.com/SlobodaStudio/code-style-and-composition-course-python/) `master` branch.
+4. Let's discuss your work!
