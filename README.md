@@ -61,13 +61,13 @@ For a sample of input given [above](#Input), the output fragment should look lik
     {
       "body": "$CMA max pain is 87.5 for expiry 2018-11-16 Source: http://sweep.ly/maxpain.html",
       "body_tags": [],
-      "metadata": ["source"],
+      "metadata": ["source", "http://sweep.ly/maxpain.html"],
       "orphan_tokens": ["87.5", "for", "2018-11-16", "Source:"]
     },
     {
       "body": "#STAAnalystAlert for $BLL : KeyCorp Reiterates with a rating of Hold. Our own verdict is Strong Buy http://www.stocktargetadvisor.com/toprating",
       "body_tags": ["STAAnalystAlert"],
-      "metadata": ["keycorp"],
+      "metadata": ["keycorp", "http://www.stocktargetadvisor.com/toprating"],
       "orphan_tokens": ["for", "KeyCorp", "with", "of", "our"]
     }
   ]
