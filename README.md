@@ -4,7 +4,7 @@ Code style and composition course for junior ML developers (in Python)
 ## Lectures
 
 * Lecture 1: [slides](https://docs.google.com/presentation/d/1Z4UYNbIQPQwaDZSRWAHXr-SHzSKQSffLLSfPuXdufm4/edit?usp=sharing)
-* Lecture 2: slides in progress
+* Lecture 2: [slides](https://docs.google.com/presentation/d/1YFwjXwPuJxoCQBQ5ul8lDt2ZhXWtQcQ1ywakc1CgYpk/edit?usp=sharing)
 
 ## Test task
 
